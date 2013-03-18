@@ -1,0 +1,637 @@
+[
+    {
+        "NOM": "Antoine",
+        "PRENOM": "Philippe",
+        "EMAIL": "phil.antoine@gmail.com",
+        "VILLE": "Paris",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "HTML5"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "JavaScript"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Barcamps"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Passwords"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "Configs xml"}]
+    },
+    {
+        "NOM": "Ardhuin",
+        "PRENOM": "Alexandre",
+        "EMAIL": "alexandre.ardhuin@gmail.com",
+        "VILLE": "Nancy",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Coder"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "java"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "web"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "IE"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "le code pourri"}]
+    },
+    {
+        "NOM": "Baligand",
+        "PRENOM": "Fabien",
+        "EMAIL": "fbaligand@gmail.com",
+        "VILLE": "Palaiseau",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "java"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "web"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "jQuery"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "le code illisible et inmaintenable"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "Liferay"}]
+    },
+    {
+        "NOM": "Bernard",
+        "PRENOM": "Emmanuel",
+        "EMAIL": "emmanuel@lescastcodeurs.com",
+        "VILLE": "",
+        "LIKINGS": []
+    },
+    {
+        "NOM": "Biville",
+        "PRENOM": "Florent",
+        "EMAIL": "florent.biville@gmail.com",
+        "VILLE": "Paris",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Apprendre"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Java"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "JS"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "deprecated stuff"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "so-called opinionated people"}]
+    },
+    {
+        "NOM": "Bonnel",
+        "PRENOM": "Yan",
+        "EMAIL": "ybonnel@gmail.com",
+        "VILLE": "Rouen",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Java (sous IntelliJ)"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Android"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Coder avec d'autres languages (actuellement Scala)"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "La complexité pour rien"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "Le temps normand (je veux retourner dans le sud...)"}]
+    },
+    {
+        "NOM": "Bonvillain",
+        "PRENOM": "Damien",
+        "EMAIL": "night.kame@gmail.com",
+        "VILLE": "Montoire sur le Loir",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Coder"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Prendre du recul"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Java"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Les amnésiques"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "Maven"}]
+    },
+    {
+        "NOM": "Bourdon",
+        "PRENOM": "Ugo",
+        "EMAIL": "bourdon.ugo@gmail.com",
+        "VILLE": "Paris",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Scala"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "extreme programming"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "git"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "le code compliqué (différent de complexe)"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "faire toujours la même chose"}]
+    },
+    {
+        "NOM": "Broca",
+        "PRENOM": "Didier",
+        "EMAIL": "didier.broca@libertysurf.fr",
+        "VILLE": "",
+        "LIKINGS": []
+    },
+    {
+        "NOM": "Cazaux",
+        "PRENOM": "Jean-Baptiste",
+        "EMAIL": "jbcazaux@gmail.com",
+        "VILLE": "Ermont",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "play tennis"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "eat"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "video games"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "no time for..."},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "to lose"}]
+    },
+    {
+        "NOM": "Chammah",
+        "PRENOM": "Tarek",
+        "EMAIL": "tchammah@google.com",
+        "VILLE": "Paris",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "OCAML"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "dependent types"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Hindley-Milner"}]
+    },
+    {
+        "NOM": "Cheype",
+        "PRENOM": "Julien",
+        "EMAIL": "cheype@gmail.com",
+        "VILLE": "Paris",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "java"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "les lapins"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "scala"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "eclipse RCP"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "perdre mon temps"}]
+    },
+    {
+        "NOM": "Courtine",
+        "PRENOM": "Benoît",
+        "EMAIL": "benoit.courtine@gmail.com",
+        "VILLE": "Paris",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Java (avec son indispensable IntelliJ)"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Linux (et plus généralement l'OSS)"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Git"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "les réunions inutiles (et chronophages)"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "les évolutions \"\"urgentes\"\" et importantes à faire sur un code sans tests"}]
+    },
+    {
+        "NOM": "David",
+        "PRENOM": "Michel",
+        "EMAIL": "mimah35@gmail.com",
+        "VILLE": "",
+        "LIKINGS": []
+    },
+    {
+        "NOM": "De Loof",
+        "PRENOM": "Nicolas",
+        "EMAIL": "nicolas.deloof@gmail.com",
+        "VILLE": "Rennes",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Coder en Java (sous Idea) avec mon Chat sur les genoux et une bonne bière"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Git"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Maven (si si)"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Devoir assurer la compatibilité ascendant sur du code legacy (ah, jenkins...)"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "Maven (si si)"}]
+    },
+    {
+        "NOM": "de Morlhon",
+        "PRENOM": "Jean-Laurent",
+        "EMAIL": "jeanlaurent@morlhon.net",
+        "VILLE": "Houilles",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "coffeescript"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "clean coding"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "hacking stuff"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Meetings"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "scala"}]
+    },
+    {
+        "NOM": "Detante",
+        "PRENOM": "Antoine",
+        "EMAIL": "antoine.detante@gmail.com",
+        "VILLE": "Metz",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Scala"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Mac OS X"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Bière"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Grippe"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "WebSphere"}]
+    },
+    {
+        "NOM": "Dhordain",
+        "PRENOM": "Gautier",
+        "EMAIL": "g.dhordain@gmail.com",
+        "VILLE": "Lille",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Java"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Apprendre des trucs utiles"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Apprendre des trucs inutiles"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Grippe"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "Code non indenté"}]
+    },
+    {
+        "NOM": "Dumont",
+        "PRENOM": "Antoine",
+        "EMAIL": "eniotna.t@gmail.com",
+        "VILLE": "Livry Gargan",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Clojure/Haskell (functional prog)"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Linux/Unix"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Simplicity"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Transports en commun"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "closed source"}]
+    },
+    {
+        "NOM": "Finance",
+        "PRENOM": "Cédric",
+        "EMAIL": "cedric.finance@soat.fr",
+        "VILLE": "",
+        "LIKINGS": []
+    },
+    {
+        "NOM": "Gageot",
+        "PRENOM": "David",
+        "EMAIL": "david@gageot.net",
+        "VILLE": "Paris",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Java"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Tests"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Chats"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Duplication"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "Usines à gaz"}]
+    },
+    {
+        "NOM": "Guérin",
+        "PRENOM": "Thomas",
+        "EMAIL": "tguerin@xebia.fr",
+        "VILLE": "Paris",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Java"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Android"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Scala"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "RER A"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "TU de 4000 lignes"}]
+    },
+    {
+        "NOM": "Hanin",
+        "PRENOM": "Xavier",
+        "EMAIL": "xavier.hanin@gmail.com",
+        "VILLE": "Bordeaux",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Developpement"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Java"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Web"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Perdre du temps"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "Le closed source"}]
+    },
+    {
+        "NOM": "Labaye",
+        "PRENOM": "Denis",
+        "EMAIL": "denis.labaye@gmail.com",
+        "VILLE": "Paris",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Simplicity"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Clojure, Emacs"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Mindfulness meditation"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Complexity"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "To hate"}]
+    },
+    {
+        "NOM": "Labouisse",
+        "PRENOM": "Christophe",
+        "EMAIL": "consulting@labouisse.com",
+        "VILLE": "Bordeaux",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Java"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Linux/Unix"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Git"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Qui veut épouser mon fils"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "Récupérer du code qui \"\"marche presque\"\""}]
+    },
+    {
+        "NOM": "Lacôte",
+        "PRENOM": "Cyril",
+        "EMAIL": "cyril@ninja-squad.com",
+        "VILLE": "",
+        "LIKINGS": []
+    },
+    {
+        "NOM": "Lagarde",
+        "PRENOM": "Jérémie",
+        "EMAIL": "jeremie.codestory@gmail.com",
+        "VILLE": "Paris",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "meet people"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "get feedback"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "open discussion"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "lose patience"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "rain"}]
+    },
+    {
+        "NOM": "Le Merdy",
+        "PRENOM": "Eric",
+        "EMAIL": "eric.lemerdy@gmail.com",
+        "VILLE": "Suresnes",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Java"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Code"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Raspberrypi"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Haters"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "untested code"}]
+    },
+    {
+        "NOM": "Le Merdy",
+        "PRENOM": "Sebastian",
+        "EMAIL": "sebastian.lemerdy@gmail.com",
+        "VILLE": "Colombes",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Java"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Software Craftsmanship"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Smart UI"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Architecture"}]
+    },
+    {
+        "NOM": "Leclaire",
+        "PRENOM": "Mathieu",
+        "EMAIL": "mat.leclaire@gmail.com",
+        "VILLE": "Metz",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Chat"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Linux"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "java"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "le poussin piou"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "flex"}]
+    },
+    {
+        "NOM": "Lemée",
+        "PRENOM": "Mathilde",
+        "EMAIL": "mathilde.lemee.pmu@gmail.com",
+        "VILLE": "",
+        "LIKINGS": []
+    },
+    {
+        "NOM": "Lemée",
+        "PRENOM": "Jean-Baptiste",
+        "EMAIL": "jblemee@gmail.com",
+        "VILLE": "Pontarmé",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Clean code"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Big Data"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Demain"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Les embouteillages"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "Attendre"}]
+    },
+    {
+        "NOM": "Lerman",
+        "PRENOM": "Benjamin",
+        "EMAIL": "Benjamin.Lerman@google.com",
+        "VILLE": "Paris",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "scala"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Un defi interessant"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "vi"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "XCode"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "Perdre mon temps"}]
+    },
+    {
+        "NOM": "Lussiez",
+        "PRENOM": "Jeremie",
+        "EMAIL": "jeremie.lussiez@gmail.com",
+        "VILLE": "Seclin",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Inventer des trucs"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Les robots"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Les chats"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Le code \"\"legacy driven\"\""},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "Le manque de curiosité"}]
+    },
+    {
+        "NOM": "Mandrikov",
+        "PRENOM": "Evgeny",
+        "EMAIL": "mandrikov@gmail.com",
+        "VILLE": "La Roche-sur-Foron",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "CodeStory"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "SonarSource"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Linux/Java/Git/Maven"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "7 deadly sins of developer"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "slow builds"}]
+    },
+    {
+        "NOM": "Martignole",
+        "PRENOM": "Nicolas",
+        "EMAIL": "nicolas@martignole.net",
+        "VILLE": "",
+        "LIKINGS": []
+    },
+    {
+        "NOM": "Moulou",
+        "PRENOM": "Mouhcine",
+        "EMAIL": "mouhcine.moulou@soat.fr",
+        "VILLE": "Vitry/Seine",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Java & scala"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "video Games"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Intellij"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Microsoft Products"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "Java (jdk 8)"}]
+    },
+    {
+        "NOM": "Muller",
+        "PRENOM": "Alain",
+        "EMAIL": "alain.muller@gmail.com",
+        "VILLE": "",
+        "LIKINGS": []
+    },
+    {
+        "NOM": "Neveu",
+        "PRENOM": "Audrey",
+        "EMAIL": "neveu.audrey@gmail.com",
+        "VILLE": "Paris",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Java & JS"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Linux"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Git"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Me battre contre des moulins à vents"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "Ceux qui savent tout mieux que tout le monde"}]
+    },
+    {
+        "NOM": "Nizet",
+        "PRENOM": "Jean-Baptiste",
+        "EMAIL": "jb+codestory@ninja-squad.com",
+        "VILLE": "",
+        "LIKINGS": []
+    },
+    {
+        "NOM": "Nopre",
+        "PRENOM": "Xavier",
+        "EMAIL": "xnopre@gmail.com",
+        "VILLE": "Gap",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Java, JS, WEB2"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Clean Code"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Découvrir"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Legacy"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "code pourri"}]
+    },
+    {
+        "NOM": "Peru",
+        "PRENOM": "Nicolas",
+        "EMAIL": "nicolas.peru@gmail.com",
+        "VILLE": "Genève",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Clean Code"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Jouer"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Neige"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Joe les bonnes idées"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "overkill"}]
+    },
+    {
+        "NOM": "Philippart",
+        "PRENOM": "Gilles",
+        "EMAIL": "gilles.philippart@sgcib.com",
+        "VILLE": "",
+        "LIKINGS": []
+    },
+    {
+        "NOM": "Renou",
+        "PRENOM": "Morgan",
+        "EMAIL": "mrenou@gmail.com",
+        "VILLE": "Versailles",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Clean Code"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Java"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Idea"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "les epinards"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "les méthodes de 50 lignes"}]
+    },
+    {
+        "NOM": "Rose",
+        "PRENOM": "Guillaume",
+        "EMAIL": "guillaume.rose@gmail.com",
+        "VILLE": "Issy",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Robotique"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Logiciels libres"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Agile"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Legacy"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "Complexité inutile"}]
+    },
+    {
+        "NOM": "Roux",
+        "PRENOM": "Julien",
+        "EMAIL": "roujul@gmail.com",
+        "VILLE": "Genève",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Moto"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Football"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Bière"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Mes voisins"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "Paris"}]
+    },
+    {
+        "NOM": "Sirot",
+        "PRENOM": "Jean-Christophe",
+        "EMAIL": "jcsirot@gmail.com",
+        "VILLE": "Ivry-sur-Seine",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "coder (en java mais pas que)"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "l'Irlande"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "les jeux video"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "la RATP"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "ceux qui pense que c'était mieux avant"}]
+    },
+    {
+        "NOM": "Tremblay",
+        "PRENOM": "Henri",
+        "EMAIL": "henri.tremblay@gmail.com",
+        "VILLE": "Paris",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Java"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Performance"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "EasyMock"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Le manque de pragmatisme"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "Tout de qui est lent"}]
+    },
+    {
+        "NOM": "Vilbé",
+        "PRENOM": "Yves",
+        "EMAIL": "uv0.xtr@gmail.com",
+        "VILLE": "",
+        "LIKINGS": []
+    },
+    {
+        "NOM": "Voisin",
+        "PRENOM": "Benoît",
+        "EMAIL": "bvo123@123mail.org",
+        "VILLE": "Paris",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Java"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Agile"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Scala"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "le rouge"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "ne pas s'améliorer"}]
+    },
+    {
+        "NOM": "Wauquier",
+        "PRENOM": "Francois",
+        "EMAIL": "wokier@gmail.com",
+        "VILLE": "Paris",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Java"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "TDD"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Agile"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "duplication"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "le rouge"}]
+    },
+    {
+        "NOM": "Wursteisen",
+        "PRENOM": "David",
+        "EMAIL": "david.wursteisen@gmail.com",
+        "VILLE": "Boulogne",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "le vide"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "photo"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Starcraft II"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Starcraft II"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "la complexité inutile"}]
+    },
+    {
+        "NOM": "Zoritchak",
+        "PRENOM": "Gaetan",
+        "EMAIL": "g.zoritchak@gmail.com",
+        "VILLE": "Genève",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Clean Code"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "kotlin"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Intellij"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "xml"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "le code perdu dans la doc"}]
+    },
+    {
+        "NOM": "Mitnick",
+        "PRENOM": "Kevin",
+        "EMAIL": "kevin@condor.net",
+        "VILLE": "Equateur",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "hacking"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "vms"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "tcp"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "fbi"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "Shimomura"}]
+    },
+    {
+        "NOM": "Torvald",
+        "PRENOM": "Linus",
+        "EMAIL": "torvalds@osdl.org",
+        "VILLE": "Helsinki",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "linux"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "git"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "plongée"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "fsf"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "rms"}]
+    },
+    {
+        "NOM": "Gates",
+        "PRENOM": "Bill",
+        "EMAIL": "bill@gates.org",
+        "VILLE": "Seattle",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Windows"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "ms-dos"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "visual studio"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Blue Screen"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "Cash"}]
+    },
+    {
+        "NOM": "Laforge",
+        "PRENOM": "Guillaume",
+        "EMAIL": "glaforge@gmail.com",
+        "VILLE": "Villiers sur Marne",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Groovy"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Grails"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Blagues"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Devoxx FR"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "Erlang"}]
+    },
+    {
+        "NOM": "Carmack",
+        "PRENOM": "John",
+        "EMAIL": "john@doom.com",
+        "VILLE": "Roeland Park",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Doom"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Quake"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "3D"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "sprites"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "unreal tournament"}]
+    },
+    {
+        "NOM": "Gosling",
+        "PRENOM": "James",
+        "EMAIL": "james@javawillneverdie.com",
+        "VILLE": "MoutainView",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Java"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "JVM"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "Robots"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "surcharge d'opérateur"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "oracle"}]
+    },
+    {
+        "NOM": "Zuckerberg",
+        "PRENOM": "Mark",
+        "EMAIL": "imceobitch@facebook.com",
+        "VILLE": "Palo Alto",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Facebook"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Tongues"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "PHP"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Tyler Winklevoss"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "Cameron Winklevoss"}]
+    },
+    {
+        "NOM": "Ordersky",
+        "PRENOM": "Martin",
+        "EMAIL": "martin@scalaftw.net",
+        "VILLE": "Lausanne",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Scala"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "Java Generics"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "javac"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Untyped Language"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "scripting"}]
+    },
+    {
+        "NOM": "Beck",
+        "PRENOM": "Kent",
+        "EMAIL": "kent@tdd.org",
+        "VILLE": "Medford",
+        "LIKINGS": [{"TYPE":"LIKE", "RANK": 1, "DESCRIPTION": "Smalltalk"},
+            {"TYPE":"LIKE", "RANK": 2, "DESCRIPTION": "JUnit"},
+            {"TYPE":"LIKE", "RANK": 3, "DESCRIPTION": "TDD"},
+            {"TYPE":"HATE", "RANK": 1, "DESCRIPTION": "Waterfall"},
+            {"TYPE":"HATE", "RANK": 2, "DESCRIPTION": "Big Design UpFront"}]
+    }
+]
