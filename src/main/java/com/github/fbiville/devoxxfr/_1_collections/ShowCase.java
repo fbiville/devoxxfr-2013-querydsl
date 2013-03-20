@@ -10,7 +10,6 @@ import static com.github.fbiville.devoxxfr.importer.JsonImporter.importCoders;
 import static com.mysema.query.alias.Alias.$;
 import static com.mysema.query.alias.Alias.alias;
 import static com.mysema.query.collections.MiniApi.from;
-import static java.util.Locale.FRENCH;
 
 public class ShowCase {
 
@@ -22,7 +21,7 @@ public class ShowCase {
 
         for (Map.Entry<String, Coder> coderTuple : matchingCoders.entrySet()) {
             Coder coder = coderTuple.getValue();
-            System.out.println(coder.getFirstName() + " " + coderTuple.getKey().toUpperCase(FRENCH) + " [" + coder.getTown().toUpperCase(FRENCH) + "]");
+            System.out.println(coder);
         }
 
 
