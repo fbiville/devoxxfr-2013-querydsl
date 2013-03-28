@@ -18,7 +18,7 @@ import static com.github.fbiville.devoxxfr.importer.HibernateImporter.importCode
 import static com.google.common.base.Preconditions.checkState;
 import static java.util.Locale.FRENCH;
 
-public class CheapRecommendationEngine implements AutoCloseable {
+public class CheapRecommendationEngine {
 
     private SessionFactory sessionFactory;
     private String firstName;
@@ -73,7 +73,6 @@ public class CheapRecommendationEngine implements AutoCloseable {
             ).list(coder.likings);
     }
 
-    @Override
     public void close() {
         this.currentSession.close();
     }
